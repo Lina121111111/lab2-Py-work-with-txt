@@ -1,4 +1,3 @@
-
 def divide_numbers():
     try:
         a = float(input("Input the first numer: "))
