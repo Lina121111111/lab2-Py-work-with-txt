@@ -1,4 +1,3 @@
-
 def read_numbers_from_file(filename):
     with open(filename, 'r') as file:
         return [int(line.strip()) for line in file.readlines()]
